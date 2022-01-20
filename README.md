@@ -1,4 +1,4 @@
-#JavaScript for Photoshop to add metadata title from file name
+#JavaScript for Photoshop to add metadata title from file name without extension
 
 ###How to use
 1. Download file metadata_add_title_from_flieName.jsx or copy code and paste in new textedit file and save as text file and chang extension to ".jsx".
